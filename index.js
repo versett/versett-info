@@ -1,17 +1,17 @@
-export.ContactInfo = {
+exports.ContactInfo = {
     phone: '18448377388',
     email: 'hi@versett.com',
     website: 'http://versett.com/'
 };
 
-export.Social = {
+exports.Social = {
     twitter: 'https://twitter.com/versettinc/',
     instagram: 'https://www.instagram.com/versettinc/',
     dribble: 'https://dribbble.com/versett',
     medium: 'https://medium.com/curated-by-versett'
 };
 
-export.ASCII = [
+exports.ASCII = [
     ' \n',
      ' \\\\    //  // //\n',
      '  \\\\  //  // // \n',
