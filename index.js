@@ -11,6 +11,15 @@ export.Social = {
     medium: 'https://medium.com/curated-by-versett'
 };
 
+export.ASCII = [
+    ' \n',
+     ' \\\\    //  // //\n',
+     '  \\\\  //  // // \n',
+     '   \\\\//  // //  \n',
+     '    \\\/  // //   \n',
+     ' \n',
+];
+
 exports.Locations = [
     {
         name: 'Calgary',
