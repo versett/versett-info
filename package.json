@@ -1,0 +1,22 @@
+{
+  "name": "versett-info",
+  "version": "1.0.0",
+  "description": "For when you need the Verscoop but want to make sure its up to date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Surely you jest\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/versett/versett-info.git"
+  },
+  "keywords": [
+    "versett"
+  ],
+  "author": "Versett <info@versett.com> (http://versett.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/versett/versett-info/issues"
+  },
+  "homepage": "https://github.com/versett/versett-info#readme"
+}
