@@ -1,6 +1,6 @@
 {
   "name": "versett-info",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "For when you need the Verscoop but want to make sure its up to date",
   "main": "index.js",
   "scripts": {
