@@ -1,5 +1,5 @@
 #Versett Info
-Common things to know about Versett in one package.
+Common things to know about Versett in one package. Includes company contact info, locations, and latest news.
 
 ## Installation
 
